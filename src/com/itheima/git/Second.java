@@ -1,0 +1,8 @@
+package com.itheima.git;
+
+public class Second {
+    public void test(){
+        System.out.println("jijjfoefoief");
+    }
+
+}
