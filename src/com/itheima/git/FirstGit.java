@@ -6,6 +6,8 @@ public class FirstGit {
         System.out.println("hello git");
         System.out.println("hello test");
         System.out.println("hello test");
+        System.out.println("hello");
+        System.out.println("hello");
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
