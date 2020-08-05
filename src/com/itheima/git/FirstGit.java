@@ -5,17 +5,15 @@ public class FirstGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello test");
-        System.out.println("hello test");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
         //测试代码
         System.out.println("冲突哦");
         System.out.println("我改了其他的文件");
 
-
+        System.out.println("dev1该代码");
     }
 
     public void test(){
