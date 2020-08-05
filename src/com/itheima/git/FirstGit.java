@@ -4,12 +4,17 @@ public class FirstGit {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git");
+        System.out.println("hello test");
+        System.out.println("hello test");
+        System.out.println("hello");
+        System.out.println("hello");
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("hello git");
-        System.out.println("hello git");
-        //测试
+        //测试代码
+        System.out.println("冲突哦");
+        System.out.println("我改了其他的文件");
+
 
     }
 
@@ -18,5 +23,7 @@ public class FirstGit {
         i +=10;
         System.out.println(i);
         System.out.println("我是dev2");
+        System.out.println("huhauhdhdhhudb");
+        System.out.println("我也该了");
     }
 }
