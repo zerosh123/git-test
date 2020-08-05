@@ -9,7 +9,7 @@ public class FirstGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        //测试代码
+        //测试代
 
     }
 
