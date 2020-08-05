@@ -18,5 +18,6 @@ public class FirstGit {
         i +=10;
         System.out.println(i);
         System.out.println("我是dev2");
+        System.out.println("huhauhdhdhhudb");
     }
 }
