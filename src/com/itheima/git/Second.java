@@ -10,6 +10,7 @@ public class Second {
     public void getAll(){
         List list=new ArrayList();
         list.add("hahhah");
+        System.out.println("hahhahhahhah");
         list.add("xixiix");
     }
 
