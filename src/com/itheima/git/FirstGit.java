@@ -22,8 +22,5 @@ public class FirstGit {
         int i=0;
         i +=10;
         System.out.println(i);
-        System.out.println("我是dev2");
-        System.out.println("huhauhdhdhhudb");
-        System.out.println("我也该了");
     }
 }
