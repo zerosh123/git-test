@@ -1,7 +1,9 @@
 package com.itheima.git;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Second {
     public void test(){
@@ -17,6 +19,7 @@ public class Second {
         System.out.println("mamammammamam ");
         System.out.println("lallalallallalall");
         System.out.println("hahhah");
+        Map map=new HashMap();
     }
 
 }
