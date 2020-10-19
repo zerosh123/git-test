@@ -10,7 +10,9 @@ public class Second {
     public void getAll(){
         List list=new ArrayList();
         list.add("hahhah");
+        System.out.println("lllllllllllll");
         list.add("xixiix");
+        System.out.println("l lobe sjdsj ");
     }
 
 }
