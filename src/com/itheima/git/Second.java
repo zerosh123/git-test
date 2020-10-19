@@ -12,6 +12,7 @@ public class Second {
         list.add("hahhah");
         System.out.println("hahhahhahhah");
         list.add("xixiix");
+        System.out.println("wushuhao");
     }
 
 }
