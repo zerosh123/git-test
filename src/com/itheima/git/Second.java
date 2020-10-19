@@ -14,6 +14,7 @@ public class Second {
         list.add("xixiix");
         System.out.println("l lobe sjdsj ");
         System.out.println("mamammammamam ");
+        System.out.println("lallalallallalall");
     }
 
 }
