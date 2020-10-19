@@ -13,6 +13,7 @@ public class Second {
         System.out.println("lllllllllllll");
         list.add("xixiix");
         System.out.println("l lobe sjdsj ");
+        System.out.println("mamammammamam ");
     }
 
 }
